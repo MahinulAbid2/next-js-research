@@ -11,3 +11,10 @@ I think it not different by syntax. <br> It is more like some predefined functio
 <br>
 
 # Question : Where is the root HTML file located in the structure?
+
+
+
+<br>
+<br>
+
+# Why should I use next.js?

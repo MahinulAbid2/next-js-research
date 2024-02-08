@@ -18,3 +18,11 @@ I think it not different by syntax. <br> It is more like some predefined functio
 <br>
 
 # Why should I use next.js?
+
+
+
+<br>
+<br>
+
+# Adding custom fonts in NEXT.JS
+https://stackoverflow.com/questions/74607996/how-to-add-custom-local-fonts-to-a-nextjs-13-tailwind-project
